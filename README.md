@@ -33,6 +33,11 @@ A modern React app for user registration, login, password recovery, and access t
 ### 🟢 نسيت كلمة السر| Forget Password Screen
 ![Forgetpassword](./screenshots/forgetpassword.png)
 
+### 🟢 loading state Screen
+![Forgetpassword](./screenshots/loadingstateforget.png)
+![Login](./screenshots/loadingstatelogin.png)
+![Register](./screenshots/loadingstateRegister.png)
+
 --------------
 ## 🛠️ التقنيات المستخدمة | Tech Stack
 
